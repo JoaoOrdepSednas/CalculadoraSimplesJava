@@ -16,10 +16,12 @@ public class Calculator {
         if (operacao == '+'){
             System.out.println(num1 + num2);
         } else if (operacao == '/') {
-            System.out.println(num1);
-
+            System.out.println(num1 / num2);
+        }else if (operacao == '*') {
+            System.out.println(num1 * num2);
+        }else if (operacao == '-') {
+            System.out.println(num1 - num2);
         }
-
 
     }
 }
