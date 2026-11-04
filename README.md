@@ -1,39 +1,29 @@
-🧮 Calculadora em Java
+# 🧮 Calculadora em Java
 
 Calculadora desenvolvida em Java para praticar lógica de programação, estruturas condicionais e fundamentos da linguagem.
 
-🚀 Funcionalidades
+## 🚀 Funcionalidades
 
-Adição
+- [x] Adição
+- [x] Subtração
+- [x] Multiplicação
+- [x] Divisão
+- [ ] Validação de valores
+- [ ] Tratamento de divisão por zero
+- [ ] Menu interativo
+- [ ] Histórico de operações
 
-Subtração
+## 🛠️ Tecnologias
 
-Multiplicação
+- Java 21
+- IntelliJ IDEA
+- Git
+- GitHub
 
-Divisão
-
-Validação de valores
-
-Tratamento de divisão por zero
-
-Menu interativo
-
-Histórico de operações
-
-🛠️ Tecnologias
-
-Java 21
-
-IntelliJ IDEA
-
-Git
-
-GitHub
-
-📚 Objetivo
+## 📚 Objetivo
 
 Projeto desenvolvido durante meus estudos de Java, com o objetivo de aprimorar meus conhecimentos em lógica de programação, resolução de problemas e fundamentos da programação orientada a objetos.
 
-👨‍💻 Autor
+## 👨‍💻 Autor
 
 João Pedro
